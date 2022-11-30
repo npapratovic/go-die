@@ -1,10 +1,8 @@
 {
     "name": "npapratovic/go-die",
-    "type": "library",
     "description": "Debugging for PHP",
     "keywords": ["debug","debugging","var_dump"],
     "homepage": "https://github.com/npapratovic",
-    "license": " Unlicense license",
     "authors": [
         {
             "name": "Nikola Papratovic",
