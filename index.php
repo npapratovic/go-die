@@ -1,5 +1,7 @@
 <?php 
 
+if (! function_exists('goDie')) {
+
 	function goDie($input = null)
 	{
 		if ($input != null)
@@ -70,3 +72,5 @@
 		}
 		die;
 	}
+	
+}
